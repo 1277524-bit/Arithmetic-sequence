@@ -1,2 +1,0 @@
-# Arithmetic-sequence
-Arithmetic sequence
